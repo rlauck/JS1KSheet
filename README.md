@@ -3,6 +3,8 @@ JS1KSheet
 
 A feature packed spreadsheet in 1024 bytes of javascript+html
 
+[minified demo](spreadsheet.1k.html)
+
 * Vanilla Javascript
 * Formulas start with "="
 * Reference other cells "=A1+b2" (case-insensitive)
