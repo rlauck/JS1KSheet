@@ -3,7 +3,7 @@ JS1KSheet
 
 A feature packed spreadsheet in 1024 bytes of javascript+html
 
-[minified demo](spreadsheet.1k.html)
+[minified demo](http://htmlpreview.github.io/?https://raw.github.com/rlauck/JS1KSheet/master/spreadsheet.1k.html)
 
 * Vanilla Javascript
 * Formulas start with "="
